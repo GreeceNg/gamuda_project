@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "14425798112",
+    "firebase_url": "https://gamudatest-e7282.firebaseio.com",
+    "project_id": "gamudatest-e7282",
+    "storage_bucket": "gamudatest-e7282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14425798112:android:f5662b16674d9bfb962785",
+        "android_client_info": {
+          "package_name": "com.example.gamuda_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14425798112-1ili7pel629l1ft13pnb0fjbfigclghr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamuda_project",
+            "certificate_hash": "60fe9bc9df7ee20b4ea6cc0b4fdfaf9f731d2327"
+          }
+        },
+        {
+          "client_id": "14425798112-j099kkjd98us8ugfc6nkifuqsicqo2fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOk7AEBLGLm13Ot1bAxwIe3kpABR2bN3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14425798112-j099kkjd98us8ugfc6nkifuqsicqo2fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
